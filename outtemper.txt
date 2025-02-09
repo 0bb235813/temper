@@ -1,0 +1,1 @@
+YEAR = "2000" - MONTH = "1" - DAY = "1" - HOUR = "0" - TEMP = "67.7" - DAY = "1" - HOUR = "1" - TEMP = "68" - DAY = "2" - HOUR = "3" - TEMP = "66.66" - MONTH = "11" - DAY = "14" - HOUR = "0" - TEMP = "-2" - DAY = "15" - HOUR = "14" - TEMP = "-8.8" - DAY = "15" - HOUR = "15" - TEMP = "-9.2"
